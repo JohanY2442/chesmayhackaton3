@@ -1,0 +1,10 @@
+{
+  "teamCode": "TEAM-000",
+  "teamName": "Chesmaypro",
+  "deployUrl": "https://",
+  "storageProvider": "SUPABASE | CLOUDINARY",
+  "integrantes": [
+    { "nombre": "Johan Huayta", "codigo": "202520023" },
+    { "nombre": "Julian Alvarez", "codigo": "202520140" }
+  ]
+}
